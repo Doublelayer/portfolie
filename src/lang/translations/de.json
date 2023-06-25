@@ -1,0 +1,59 @@
+{
+    "loader":{
+        "0": "Hi",
+        "1": "mein Name ist Florin",
+        "2": "Ich bin Fullstack Developer",
+        "3": "und",
+        "4": "dein Partner"
+    },
+    "common":{
+        "load_more": ""
+    },
+    "hero":{
+        "title": "Meine Leidenschaft,\ndein Erfolg",
+        "subTitle": "Fullstack Development",
+        "contact": "Kontaktieren mich"
+    },
+    "stats":{
+        "card_0": "Jahre Erfahrung",
+        "card_1": "Stunden Erfahrung",
+        "card_2": "Projekte"
+    },
+    "about":{
+        "title": "Du brauchst ein kreatives Produkt?\nIch kann dir helfen!",
+        "subTitle": "Über mich",
+        "cta_primary": "Angagiere mich",
+        "cta_secondary": "CV Herunterladen",
+        "description": "Hi, ich bin Florin und ein passionierter Softwareentwickler mit einem ausgeprägten Interesse an Cyber-Sicherheit. Durch meine Leidenschaft für das Programmieren und meine Fachkenntnisse in der IT-Sicherheit bin ich in der Lage, robuste und sichere Softwarelösungen zu entwickeln. Mein breites Fachwissen ermöglicht es mir, komplexe Probleme zu analysieren und innovative Lösungen zu finden. Ich habe umfangreiche Erfahrung in der Entwicklung von sicheren Anwendungen und in der Durchführung von Penetrationstests, um Schwachstellen aufzudecken und zu beheben. Mit meinem technischen Know-how und meinem Engagement für die Sicherheit helfe ich Unternehmen, ihre digitalen Assets zu schützen und Cyber-Bedrohungen zu minimieren."
+    },
+    "skills":{
+        "title": "Was kann ich eigentlich?",
+        "description":"Als erfahrener Softwareentwickler beherrsche ich eine Vielzahl von Tools und Technologien, die mir helfen, effizient zu arbeiten. Ich bin versiert in Programmiersprachen wie Java  Python und arbeite mit Frameworks wie Django und Spring. Zusätzlich habe ich Kenntnisse in der Nutzung von Datenbanken wie MySQL und MongoDB. Ich bin mit CI/CD-Tools wie Jenkins vertraut und kann automatisierte Build- und Deploy-Prozesse einrichten. In Bezug auf Tests nutze ich JUnit und Selenium für Unittests und Webanwendungstests. Für das Monitoring und die Fehlerverfolgung verwende ich Tools wie ELK Stack und Bug-Tracking-Systeme wie Jira. Darüber hinaus habe ich Erfahrung mit Sicherheitswerkzeugen wie Burp Suite und Nessus für Schwachstellenanalysen und Penetrationstests. Durch meine breite Palette an Fähigkeiten und Werkzeugen bin ich in der Lage, verschiedene Softwareprojekte erfolgreich umzusetzen.",
+        "section_title":"MEINE FÄHIGKEITEN",
+        "cta_skills":"Fähigkeiten",
+        "cta_tools":"Werkzeuge"
+    },
+    "projects":{
+        "title":"Meine Projekte werden dich begeistern!",
+        "section_title":"MEINE PROJEKTE",
+        "description":"In meiner Karriere habe ich an einer Vielzahl von spannenden Softwareprojekten gearbeitet, die mein Fachwissen und meine Fähigkeiten herausgefordert haben. Von der Entwicklung einer maßgeschneiderten E-Commerce-Plattform bis hin zur Implementierung eines sicheren Zahlungssystems – ich habe erfolgreich komplexe Aufgaben gemeistert. Leider kann ich nicht alle meine Projekte öffentlich präsentieren, da einige davon proprietär oder vertraulich sind."
+    },
+    "contact":{
+        "title":"Du brauchst einen Projektpartner?\nSchreib mir eine Nachricht!",
+        "section_title":"KONTAKT",
+        "description":"Nimm einfach Kontakt mit mir auf und lassen mich wissen, wobei ich dir helfen kann. Füll dazu einfach das Formular aus und ich werde mich so schnell wie möglich bei dir melden!",
+        "address_title":"Adresse",
+        "address_country":"Deutschland",
+        "form":{
+            "name": "Name",
+            "name_tip": "z.B. Florin",
+            "email": "E-Mail",
+            "email_tip": "z.B. florin{'@'}dev.de",
+            "phone": "Telefonnummer (Optional)",
+            "message": "Nachricht",
+            "message_tip": "Deine Nachricht...",
+            "cta": "Abschicken"
+        }
+
+    }
+}

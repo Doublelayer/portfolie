@@ -1,0 +1,59 @@
+{
+    "loader":{
+        "0": "Hi",
+        "1": "my Name is Florin",
+        "2": "I´m a Fullstack Developer",
+        "3": "and",
+        "4": "your Partner"
+    }
+    ,"common":{
+        "load_more": ""
+    },
+    "hero":{
+        "title": "My passion,\nyour success",
+        "subTitle": "Fullstack Development",
+        "contact": "Get in Touch"
+    },
+    "stats":{
+        "card_0": "Years of Experience",
+        "card_1": "Hours of Experience",
+        "card_2": "Projects"
+    },
+    "about":{
+        "title": "Need a Creative Product?\nI can Help You!",
+        "subTitle": "About me",
+        "cta_primary": "Hire me",
+        "cta_secondary": "Download CV",
+        "description": "Hi, I´am Florin and a passionate software developer with a strong interest in cybersecurity. With my passion for programming and expertise in IT security, I am capable of developing robust and secure software solutions. My broad knowledge in the field allows me to analyze complex problems and find innovative solutions. I have extensive experience in developing secure applications and conducting penetration tests to identify and address vulnerabilities. With my technical expertise and commitment to security, I assist companies in protecting their digital assets and minimizing cyber threats."
+    },
+    "skills":{
+        "title": "What My Programming Skills Included?",
+        "description":"As an experienced software developer, I possess a wide range of tools and technologies that enable me to work efficiently. I am proficient in programming languages such as Java or Python and I work with frameworks like Django and Spring. Additionally, I have knowledge in working with databases such as MySQL and MongoDB. I am familiar with CI/CD tools like Jenkins and can set up automated build and deployment processes. When it comes to testing, I use JUnit and Selenium for unit tests and web application testing. For monitoring and issue tracking, I utilize tools like the ELK Stack and bug-tracking systems like Jira. Furthermore, I have experience with security tools like Burp Suite and Nessus for vulnerability assessments and penetration testing. With my diverse skill set and range of tools, I am capable of successfully implementing various software projects.",
+        "section_title":"MY SKILLS",
+        "cta_skills":"Skills",
+        "cta_tools":"Tools"
+    },
+    "projects":{
+        "title":"See My Works Which Will Amaze You!",
+        "section_title":"MY WORKS",
+        "description":"I have worked on a variety of exciting software projects throughout my career that have tested my knowledge and skills. From developing custom e-commerce platforms to implementing secure payment systems, I have successfully tackled complex tasks. However, not all of my projects can be publicly showcased due to proprietary or confidential reasons."
+    },
+    "contact":{
+        "title":"Have You Any Project?\nPlease Drop a Message",
+        "section_title":"CONTACT",
+        "description":"Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.",
+        "address_title":"Address",
+        "address_country":"Germany",
+        "form":{
+            "name": "Name",
+            "name_tip": "e.g Florin",
+            "email": "Mail",
+            "email_tip": "z.B.: florin{'@'}dev.com",
+            "phone": "Phone (Optional)",
+            "message": "Message",
+            "message_tip": "Your Message...",
+            "cta": "Send"
+        }
+
+    }
+}

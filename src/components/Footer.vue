@@ -1,32 +1,68 @@
 <template>
-    <footer>
-        <p>{{ currentYear }} Copyright by Max Mustermann. Create with Vue.</p>
-    </footer>
+  <footer class="footer">
+    <div class="container">
+      <p class="h1 logo">
+        <a href="#"> Florin<span>.</span> </a>
+      </p>
+
+      <p class="copyright">Copyright &copy; {{ currentYear }}</p>
+      <span>
+        Made with 💚 by
+        <a href="https://github.com/Doublelayer">Doublelayer</a> and inspired by
+        <a href="https://github.com/codewithsadee/jack-portfolio"
+          >codewithsadee</a
+        >
+      </span>
+    </div>
+  </footer>
 </template>
 
 <script>
-
 export default {
-    data() {
-        return {
-            currentYear: new Date().getFullYear()
-        }
-    }
-}
-
+  data() {
+    return {
+      currentYear: new Date().getFullYear(),
+    };
+  },
+};
 </script>
 
-<style lang="scss" scoped>
+<style>
+.footer {
+  background: var(--bg-secondary);
+  padding-block: 20px;
+  text-align: center;
+  box-shadow: var(--shadow-1);
 
-footer {
-    display: flex;
-    justify-content: center;
-    margin: 5rem 0 0 0;
-    p {
-        font-size: 1.2rem;
-        font-family: $roboto;
-        color: $ciGrey;
-    }
+  .logo {
+    margin-bottom: 15px;
+  }
+  a {
+    color: var(--raw-seinna) !important;
+  }
 }
 
+.copyright {
+  color: var(--color-secondary);
+  line-height: 1.6;
+
+  a {
+    display: inline-block;
+    color: var(--raw-seinna);
+  }
+}
+
+@media (min-width: 992px) {
+  .footer {
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      margin-bottom: 0;
+    }
+  }
+}
 </style>
