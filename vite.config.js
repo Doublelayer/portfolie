@@ -15,11 +15,6 @@ export default defineConfig({
         },
       },
     css: {
-        preprocessorOptions: {
-            scss: {
-                additionalData:`@import "@/scss/variables.scss";`
-            }
-        }
     },
     plugins: [
         vue({
