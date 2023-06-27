@@ -55,7 +55,7 @@
   </section>
 </template>
 
-<style>
+<style lang="scss" scoped>
 .stats {
   padding-block: var(--section-padding);
 }

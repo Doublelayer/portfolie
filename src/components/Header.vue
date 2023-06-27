@@ -2,7 +2,7 @@
   <header :class="scrollingClass" class="header" ref="header">
     <div class="container">
       <h1 class="h1 logo">
-        <a href="#">Florin<span>.</span></a>
+        <a href="#">{{ $t("common.first_name") }}<span>.</span></a>
       </h1>
 
       <div class="navbar-actions">
@@ -130,11 +130,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
-/*-----------------------------------*\
- * #HEADER
-\*-----------------------------------*/
-
+<style lang="scss" scoped>
 .header {
   padding-block: 15px;
   position: fixed;

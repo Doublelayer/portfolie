@@ -27,7 +27,7 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss" scoped>
 .footer {
   background: var(--bg-secondary);
   padding-block: 20px;

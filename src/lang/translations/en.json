@@ -7,7 +7,8 @@
         "4": "your Partner"
     }
     ,"common":{
-        "load_more": ""
+        "load_more": "",
+        "first_name": "Florin"
     },
     "hero":{
         "title": "My passion,\nyour success",

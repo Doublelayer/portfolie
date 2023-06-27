@@ -12,7 +12,7 @@ export default {
   name: "app",
   data() {
     return {
-      activeTheme: localStorage.getItem("theme"),
+      activeTheme: localStorage.getItem("theme") || "dark_theme",
       scrollingClass: "",
     };
   },

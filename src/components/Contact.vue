@@ -135,7 +135,7 @@
   </section>
 </template>
 
-<style>
+<style lang="scss" scoped>
 .contact {
   padding-block: var(--section-padding);
 }

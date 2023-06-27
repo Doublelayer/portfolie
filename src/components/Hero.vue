@@ -33,7 +33,6 @@
           class="hero-social-link"
         >
           <ion-icon name="logo-xing"></ion-icon>
-
           <div class="tooltip">Xing</div>
         </a>
       </li>
@@ -53,7 +52,7 @@
   </section>
 </template>
 
-<style>
+<style lang="scss" scoped>
 .hero {
   min-height: 100vh;
   display: flex;

@@ -26,7 +26,7 @@
   </section>
 </template>
 
-<style>
+<style lang="scss" scoped>
 .about {
   padding-block: var(--section-padding);
 }
